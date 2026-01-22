@@ -40,5 +40,5 @@ Beyond academic projects, I am an active member of my university's electric car 
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/arda-kaya-3064a9292/)
+* **LinkedIn:** [Profile](https://www.linkedin.com/in/arda-kaya-3064a9292/)
 * **Email:** [ardakaya.seng@gmail.com]
