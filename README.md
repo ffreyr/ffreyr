@@ -33,8 +33,8 @@ Beyond academic projects, I am an active member of my university's electric car 
 
 ### 📊 GitHub Activity
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffreyr&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffreyr&layout=compact&theme=transparent&langs_count=6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ffreyr&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ffreyr&layout=compact&theme=tokyonight" />
 </p>
 
 ---
