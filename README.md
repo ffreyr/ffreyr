@@ -1,4 +1,4 @@
-# 👨‍💻 Arda | .NET Developer & Software Engineering Student
+# 👨‍💻 Arda | Developer & Software Engineering Student
 
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
