@@ -1,33 +1,40 @@
-# 👨‍💻 Arda | Developer & Software Engineering Student
+# 👨‍💻 Arda Kaya | Software Engineer & AI Engineer
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET%20Core-%23512bd4.svg?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white" />
-</p>
+<!-- Tech Stack Badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
+## 🚀 About Me
 
-### 🚀 About Me
-I am a Software Engineering student dedicated to building scalable and efficient backend solutions. Currently, I am specializing in the **.NET Ecosystem** and focusing on enterprise-grade application development.
+I am a Software Engineering student at Kocaeli University, currently transitioning my focus toward **Artificial Intelligence, Machine Learning, and MLOps**. While I possess a solid foundation in backend development and enterprise-grade architectures, my main objective is to design intelligent systems and integrate ML models into scalable software.
 
-Beyond academic projects, I am an active member of my university's electric car team in the **ADAS (Advanced Driver-Assistance Systems)** unit, where I conduct research and development on blind-spot monitoring systems.
+## 💼 Experience
 
----
+*   **Software Engineering Intern @ Intertech (InternTech Program)**
+    *   Developed the backend infrastructure and API integrations for the **MoneyFast** application using **FastAPI**.
+    *   Collaborated within an Agile/Scrum environment with Team InterFive, participating in daily workflows and sprint planning.
+*   **Database Operations Intern @ İZSU**
+    *   Completed a database-focused internship within the GIS (CBS) department, managing query operations and spatial data structures.
 
-### 🛠️ Tech Stack & Skills
-* **Languages:** C#, Python, Java, SQL, HTML/CSS, C/C++ 
-* **Backend:** .NET Web API, ASP.NET Core, Django
-* **Databases:** SQL Server, Redis (NoSQL)
-* **Interests:** Cyber Security, System Architecture, ADAS Technologies
+## 🛠 Technical Arsenal
 
----
+*   **Languages:** Python, C#, Java, C/C++, JavaScript, SQL, HTML/CSS
+*   **AI & Machine Learning:** PyTorch, Scikit-learn, NumPy, Pandas
+*   **Backend & Frameworks:** FastAPI, Django, .NET Web API, ASP.NET Core, JavaFX, WPF
+*   **Databases:** PostgreSQL, MySQL, SQL Server, Redis
+*   **DevOps & Tools:** Docker, Git/GitHub, JetBrains Suite, VS Code, macOS, Obsidian
+*   **Core Interests:** MLOps, Cybersecurity (SIEM), System Architecture, ADAS Technologies
 
-### 📂 Featured Projects
-* **Finova** – A personal finance and banking application designed for modern financial management (Built with Java).
-* **Flowingo** – A high-performance task management platform for teams (Built with Django).
-* **Randevu-Saha** – A dynamic field and appointment management system.
+## 📁 Featured Projects
+
+*   **MoneyFast** – A financial application built during the InternTech program, focusing on high-performance API endpoints and seamless data flow.
+*   **Finova** – A personal finance and banking desktop application engineered for modern financial management (Built with JavaFX & MySQL).
+*   **Flowingo** – A high-performance task management platform designed for team collaboration (Built with Django & MySQL).
+*   **Randevu-Saha** – A dynamic field and appointment management web system.
 
 ---
 
